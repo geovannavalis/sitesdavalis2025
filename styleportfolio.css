@@ -1,0 +1,36 @@
+.grafico{ 
+   display: block; 
+   margin-left: auto;
+   margin-right:auto;
+   width: 500px ;
+   transition: width 0.8s;
+}
+
+.grafico:hover {
+   width: 600px;
+}
+
+.links2 {
+   background-color: #ffa2f4;
+   margin: 1rem 1rem 1em 21rem;
+   padding: 1.3rem;
+   border-radius: 1rem;
+   display: flex;
+   justify-content: space-evenly; 
+}
+
+.links2 a {
+text-decoration: none;
+color:rgba(255, 0, 144, 0.904) ;
+font-size: 1.2rem;
+font-weight: 800;
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-shadow: rgb(255, 255, 255);
+}
+
+.linha {
+border-left: 5px solid #ff149d; 
+height: 1.5rem;
+color: aliceblue;
+box-shadow: 3px 5px 5px (0,0,0);
+}

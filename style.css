@@ -1,0 +1,140 @@
+body{
+    background-color: rgb(231, 68, 190);
+    margin: 0;
+}
+
+#menu {
+    background-color: rgb(255, 0, 170);
+    margin-top: -25px;
+    width: 300px;
+    height: 1400px;
+    text-align: center;
+    box-shadow: 10px 10px 5px lightblue;
+}
+
+.logo { 
+    width: 150px; 
+    margin-top: 75px;
+    border-radius: 50%;
+    border: 6px double #fff;
+    box-shadow: 10px 10px 5px lightblue;
+}
+
+h1, h2
+{ font-size: 1.2rem;
+  color: #fff;
+  font-family: sans-serif;
+  text-shadow: 2px 2px rgb(244, 116, 182);
+}
+
+.link1 { 
+text-decoration: none;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: rgb(255, 255, 255);
+text-shadow: 2px 2px 5px white;
+font-weight: 600;
+display: flex;
+flex-direction: column;
+padding: 1rem 0;
+transition: all 0.7 ease;
+}
+
+.link1:hover {
+background-color: #e789c0;
+color: #fff;
+}
+
+header { 
+float: left ;
+}
+
+.info1 {
+background-color: #fff;
+margin: 1rem 1rem 0.5rem 21rem;
+padding: 1rem;
+border-radius: 1rem;
+box-shadow: 10px 10px 5px lightblue;
+}
+
+.info2 {
+background-color: #fff;
+margin: 1rem 1rem 0.5rem 1rem;
+padding: 1rem;
+border-radius: 1rem;
+box-shadow: 10px 10px 5px lightblue;
+width: 280px;
+height: 170px;
+}
+
+.info3 {
+background-color: #fff;
+margin: 1rem 1rem 0.5rem 1rem;
+padding: 1rem;
+border-radius: 1rem;
+box-shadow: 10px 10px 5px lightblue;
+width: 280px;
+height: 170px; 
+}
+
+.info4 {
+background-color: #fff;
+margin: 1rem 1rem 0.5rem 1rem;
+padding: 1rem;
+border-radius: 1rem;
+box-shadow: 10px 10px 5px lightblue;
+width: 280px;
+height: 170px;  
+}
+
+.info5 {
+background-color: #fff;
+margin: 1rem 1rem 0.5rem 1rem;
+padding: 1rem;
+border-radius: 1rem;
+box-shadow: 10px 10px 5px lightblue;
+width: 280px;
+height: 170px;  
+}
+
+.info6 {
+background-color: #fff;
+margin: 1rem 1rem 0.5rem 1rem;
+padding: 1rem;
+border-radius: 1rem;
+box-shadow: 10px 10px 5px lightblue;
+width: 280px;
+}
+
+.info7 {
+background-color: #fff;
+margin: 1rem 1rem 0.5rem 1rem;
+padding: 1rem;
+border-radius: 1rem;
+box-shadow: 10px 10px 5px lightblue;
+width: 280px;
+height: 170px;  
+}
+
+#conteudo {
+display: flex;    
+flex-wrap: wrap;
+justify-content: center
+}
+
+footer {
+    background-color: rgb(255, 135, 201);
+    color: antiquewhite;
+    font-size: 1.8rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 1rem;
+    clear: both;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 3px 5px 5px rgb(255, 39, 223)
+}
+
